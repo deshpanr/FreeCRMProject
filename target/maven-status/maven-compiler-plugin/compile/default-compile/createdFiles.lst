@@ -1,0 +1,15 @@
+com\crm\qa\pages\FreeCRMHomePage.class
+com\crm\qa\util\FreeCRMTestUtil.class
+com\crm\qa\pages\FreeCRMSignUpPage.class
+com\crm\qa\test\HomePageTest.class
+com\crm\qa\test\LoginPageTest.class
+com\crm\qa\pages\FreeCRMSearchPage.class
+com\crm\qa\pages\FreeCRMLoginPage.class
+com\crm\qa\test\DealsPageTest.class
+com\crm\qa\test\contactPageTest.class
+com\crm\qa\pages\FreeCRMContactPage.class
+com\crm\qa\pages\FreeCRMDealsPage.class
+com\crm\qa\util\WebEventListener.class
+com\crm\qa\util\Xls_Reader.class
+com\qa\ExtentReportListener\ExtentReporterNG.class
+com\crm\qa\base\FreeCRMBase.class
